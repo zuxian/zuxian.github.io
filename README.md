@@ -18,6 +18,9 @@
 
 4--[cookie_fzx的生活相册，图片多，打开来超慢，以后优化重做...—— http://fuzuxian.fun/album/](http://fuzuxian.fun/album/)
 
+4--[cookie_fzx的生活相册，换了地方，代码放到国内的码云托管，快了超多—— http://zuxian.gitee.io/album/](http://zuxian.gitee.io/album/)
+
+
 
 &nbsp;
 
