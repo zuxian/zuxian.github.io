@@ -8,7 +8,7 @@
 
 &nbsp;
 
-2--[cookie_fzx的微信--视频号：cookie-fzx](./images/视频号.jpg)，视频很烂，新手小白...
+2--[微信--视频号：cookie-fzx](./images/视频号.jpg)，视频很烂，新手小白...
 
 &nbsp;
 
