@@ -1,22 +1,27 @@
 请允许我尘埃落定，用沉默埋葬了过去，
+&nbsp;
 满身风雨我从海上来，才隐居在这沙漠里。
 
 &nbsp;
 &nbsp;
 
-1--[cookie_fzx的生活相册—— zuxian.gitee.io/album/](http://zuxian.gitee.io/album/)，打开有点慢...
+1--[cookie_fzx的生活相册](http://zuxian.gitee.io/album/)，打开有点慢...
 
 &nbsp;
 
-2--[cookie_fzx的CSDN博客（旧）—— blog.csdn.net/image_fzx](https://blog.csdn.net/image_fzx)
+2--cookie_fzx的微信视频号：cookie-fzx
 
 &nbsp;
 
-3--[cookie_fzx的博客（新）——  fuzuxian.fun/myBlog/](https://fuzuxian.fun/myBlog/)
+3--[cookie_fzx的CSDN博客（旧）](https://blog.csdn.net/image_fzx)
 
 &nbsp;
 
-4--[cookie_fzx的github ——github.com/zuxian](https://github.com/zuxian)
+4--[cookie_fzx的博客（新）](https://fuzuxian.fun/myBlog/)
+
+&nbsp;
+
+5--[cookie_fzx的github](https://github.com/zuxian)
 
 &nbsp;
 
