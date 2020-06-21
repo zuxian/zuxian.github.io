@@ -1,5 +1,4 @@
 请允许我尘埃落定，用沉默埋葬了过去，
-&nbsp;
 满身风雨我从海上来，才隐居在这沙漠里。
 
 &nbsp;
@@ -9,7 +8,7 @@
 
 &nbsp;
 
-2--cookie_fzx的微信视频号：cookie-fzx
+2--[cookie_fzx的微信--视频号：cookie-fzx](./images/视频号.jpg)，视频很烂，新手小白...
 
 &nbsp;
 
