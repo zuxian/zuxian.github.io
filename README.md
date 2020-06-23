@@ -4,7 +4,7 @@
 &nbsp;
 &nbsp;
 
-1--[cookie_fzx的生活相册](http://zuxian.gitee.io/album/)，打开有点慢...
+1--[cookie_fzx的生活相册](https://zuxian.gitee.io/album/)，打开有点慢...
 
 &nbsp;
 
@@ -22,9 +22,6 @@
 
 5--[cookie_fzx的github](https://github.com/zuxian)
 
-&nbsp;
-
-本程序媛爱逛知乎，但个人知乎主页还是不挂了...
 
 &nbsp;
 &nbsp;
